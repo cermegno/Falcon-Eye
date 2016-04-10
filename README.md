@@ -15,11 +15,11 @@ I created a fictious story so that I have a specific need to solve. This helped 
 Four main hardware components:
  - 2 x Photon controllers (by Particle)
      - One with with
-          o Sensors (temperature/humidity sensor, light sensor, and override switch)
-          o Actuators/outputs (red LED, green LED, yellow LED, a passive buzzer, a servo, a 16x2 LCD with external potentiometer)
+        * Sensors (temperature/humidity sensor, light sensor, and override switch)
+        * Actuators/outputs (red LED, green LED, yellow LED, a passive buzzer, a servo, a 16x2 LCD with external potentiometer)
      - Another one with
-          o Sensors (RFID)
-          o Actuators (red LED, green LED, servo)
+        * Sensors (RFID)
+        * Actuators (red LED, green LED, servo)
  - Raspberry Pi wireless enabled
  - A laptop running windows
  
