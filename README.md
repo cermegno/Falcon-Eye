@@ -1,7 +1,9 @@
 # Falcon-Eye
+## History
 This was a personal project I undertook to get initiated in the IOT world as well as Python coding, mobile app development
 and a few other things ... Happy for you to reuse what you can. I take no responsabilities for any damages.
 
+## Purpose
 I created a fictious story so that I have a specific need to solve. This helped me to define more specific behaviours in the code:
  - We are in the future. About to colonize Mars.
  - Mars environment is volatile and extreme due to thin atmosphere
@@ -9,6 +11,7 @@ I created a fictious story so that I have a specific need to solve. This helped 
  - The project will also keep track of vehicles leaving and returning to the base
  - There will be three bases (Alfa, Beta, Gamma) in the future. Parts of the code make that asumption
 
+## Hardware
 Four main hardware components:
  - 2 x Photon controllers (by Particle)
      + One with with
@@ -20,6 +23,7 @@ Four main hardware components:
  - Raspberry Pi wireless enabled
  - A laptop running windows
  
+## Software
  From a software component we have
  - Sketches for the Photon controllers reading all the sensors and acting on thresholds. They also publish data through MQTT
  - MQTT (Message Queuing for Telemetry Transport) for data transfer from controllers to laptop. In particular I run Mosquitto
@@ -33,7 +37,7 @@ Four main hardware components:
  - Nginix is the web server I used on my laptop
  - Splunk light version is also checking the environment log file and using a dashboard with timelines and basic stats
  - A mobile app created with MIT app inventor
- 
+## Files 
  I have uploaded the following files:
   - Photon sketch for Environment monitoring
   - Photon sketch for vehicle tracking
