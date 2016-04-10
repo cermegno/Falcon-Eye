@@ -14,10 +14,10 @@ I created a fictious story so that I have a specific need to solve. This helped 
 ## Hardware
 Four main hardware components:
  - 2 x Photon controllers (by Particle)
-     + One with with
+     - One with with
           o Sensors (temperature/humidity sensor, light sensor, and override switch)
           o Actuators/outputs (red LED, green LED, yellow LED, a passive buzzer, a servo, a 16x2 LCD with external potentiometer)
-      + Another one with
+     - Another one with
           o Sensors (RFID)
           o Actuators (red LED, green LED, servo)
  - Raspberry Pi wireless enabled
@@ -45,6 +45,8 @@ Four main hardware components:
   - Python script to process the log file
   - Screenshots of the AppInventor
   
- Enjoy !!!
- Alberto
- Monday 7th December 2015
+Enjoy !!!
+
+Alberto
+
+Monday 7th December 2015
