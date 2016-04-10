@@ -37,6 +37,7 @@ Four main hardware components:
  - Nginix is the web server I used on my laptop
  - Splunk light version is also checking the environment log file and using a dashboard with timelines and basic stats
  - A mobile app created with MIT app inventor
+
 ## Files 
  I have uploaded the following files:
   - Photon sketch for Environment monitoring
@@ -46,4 +47,4 @@ Four main hardware components:
   
  Enjoy !!!
  Alberto
- Monday 7th Decemeber 2015
+ Monday 7th December 2015
