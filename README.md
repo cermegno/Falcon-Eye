@@ -1,7 +1,11 @@
 # Falcon-Eye
 ## History
 This was a personal project I undertook to get initiated in the IOT world as well as Python coding, mobile app development
-and a few other things ... Happy for you to reuse what you can. I take no responsabilities for any damages.
+and a few other things ... I also created a fictional background story around it and told it in this video
+
+https://www.youtube.com/watch?v=OFzSa8oW5WA
+
+Happy for you to reuse what you can. I take no responsabilities for any damages.
 
 ## Purpose
 I created a fictious story so that I have a specific need to solve. This helped me to define more specific behaviours in the code:
